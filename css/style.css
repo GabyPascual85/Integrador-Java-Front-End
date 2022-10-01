@@ -1,0 +1,41 @@
+.navbar-brand img {width: 100px}
+
+#boton_verde{color: #25a342}
+
+#botonverdefoot{
+    background-color:rgb(139, 210, 61);
+    height:50px;
+    font-size:larger;
+    padding-top: 10px;
+}
+
+.carousel-item{filter:brightness(0.4)}
+
+.texto{
+
+    text-align: center;
+    padding-top:10px;
+    
+}
+
+
+.navbar_ult{background-color:rgb(30, 57, 88);}
+
+#texto_final{margin-left:200px;}
+
+.cuadradogris{background-color: rgb(60, 60, 60);
+padding-top:20px;
+color:white
+}
+
+#floatingTextarea2{
+
+    font-size:smaller
+}
+
+#emailHelp{
+
+    margin-top: -10px;
+    padding-bottom: 15px;
+    
+}
